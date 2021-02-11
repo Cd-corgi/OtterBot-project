@@ -10,6 +10,8 @@ PREFIX = "YOUR BOT PREFIX"
 GOOGLE = "YOUR YOUTUBE APIV3 KEY HERE!"
 ```
 
+* The db to the Prefix is **Mongoose** make sure creating a Shard to the bot!
+
 ## Reqs and Engine 📒
 
 * Node.js v12 (and latest)
