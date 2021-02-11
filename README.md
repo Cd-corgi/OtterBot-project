@@ -1,5 +1,5 @@
 # OtterBot Open Source project
-Looking inspiration? This is a cute and basic repo for you! A simple but great social and misc bot!
+Looking for inspiration? This is a cute and basic repo for you! A simple but great social and misc bot!
 
 ## Features and Functions! 🦦
 
