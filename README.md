@@ -60,7 +60,7 @@ A cup of coffe make me more active and more happy! [Buy me a Coffee ☕](https:/
 
 ## Disclamer ⚠
 
-* This is a Open Source Repo, The commands is attached with an Open Source [License.md](LICENSE.md) <- more info there
+* This is a Open Source Repo, The commands is attached with an Open Source [License.md](https://github.com/Cd-corgi/OtterBot-OP-project/blob/main/LICENSE) <- more info there
 
 * I'm **NOT** responsable about the use you give to this template or something else...
 
