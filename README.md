@@ -56,7 +56,7 @@ The **async** method is optional and will be removed if the command do **not** n
 * *bad done*  Error, check the project and reload ❌
 
 **Wanna more help?**
-contact me as Coiny on Discord in [Break Space 2](https://discord.gg/JWajjNqVzz) 🧡
+contact me as Coiny on Discord in [Otter Hangout](https://discord.gg/8mUEK38NMJ) 🧡
 
 A cup of coffe make me more active and more happy! [Buy me a Coffee ☕](https://www.buymeacoffee.com/CorgiOtterBot)
 
