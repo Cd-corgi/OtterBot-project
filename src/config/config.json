@@ -1,0 +1,33 @@
+{
+    "token": "bot token",
+    "botID": "bot id",
+    "ownerID": "owner id",
+    "MONGO_URI": "mongo URI",
+    "API": "perspective api",
+    "colors": {
+        "success": "Green",
+        "warning": "Yellow",
+        "error": "Red"
+    },
+    "GENIUS_API": "genius API",
+    "spotifyPlugin": {
+        "clientID_sp": "spotify client",
+        "secretClient_sp": "SClient Spotify"
+    },
+    "nodes": [
+        {
+            "name": "Lavalink Client",
+            "host": "host here",
+            "port": 00000,
+            "password": "password here"
+        }
+    ],
+    "nodes2": [
+        {
+            "name": "Lavalink Client 2",
+            "host": "host here",
+            "port": 00000,
+            "password": "password here"
+        }
+    ]
+}
