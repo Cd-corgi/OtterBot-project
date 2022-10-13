@@ -1,6 +1,11 @@
 ![lide-radio](https://user-images.githubusercontent.com/70237066/195441717-35020658-766b-4d63-8eb8-b2cf5d8ee3e4.png)
 
-<center><a href="https://www.buymeacoffee.com/CorgiOtterBot"><img src="https://img.buymeacoffee.com/button-api/?text=Otterly nice to Support you&emoji=🐭&slug=CorgiOtterBot&button_colour=5ff7e5&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a></center>
+<br>            
+<center>
+
+[![Subscribe - Cørg1](https://img.shields.io/badge/Subscribe-Cørg1-F72424?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCnkviocxvPGS_80aNjJrCkQ)  [![Invite OtterBot](https://img.shields.io/badge/Invite_Bot-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.com/api/oauth2/authorize?client_id=686245252717477966&permissions=1266213579990&scope=applications.commands%20bot)  [![Node Version](https://img.shields.io/badge/Node-v16.17.0-27C418?style=for-the-badge&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/)  [![Server Support](https://img.shields.io/badge/Support_Server-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.gg/UF4zErDJzD)
+
+</center>
 
 ## OtterBot-OP-project
 
@@ -12,10 +17,11 @@ This repo has the following features:
 * Moderation and Auto-Mod Functions
 * Welcome System
 
-My social Pages:
+Support my work:
 
-> * [YouTube](https://www.youtube.com/channel/UCnkviocxvPGS_80aNjJrCkQ)
-> * [Discord Server](https://discord.gg/UF4zErDJzD)
+<a href="https://www.buymeacoffee.com/CorgiOtterBot">
+            <img src="https://img.buymeacoffee.com/button-api/?text=Otterly nice to Support you&emoji=🐭&slug=CorgiOtterBot&button_colour=5ff7e5&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" />
+</a>
 
 
 ## How to setup this bot!
